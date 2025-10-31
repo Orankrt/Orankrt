@@ -1,15 +1,24 @@
-## Hi, I'm Orhan.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="800">
+</p>
 
-💻 Software Developer  <br/> 
-🎓 Student at Alfa-College <br/> 
-📫 How to reach me: [Gmail](kurtorhanemre@gmail.com)   |  [Instagram](https://www.instagram.com/orhan.e.k/?utm_source=qr)<br/>
+# Hi, I'm Orhan.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Orankrt&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+• Second-year Software Development student.  
+• Interested in Web Development, Game Development, Front-End and Back-End  
+• Based in the Netherlands, fluent in Turkish & English (and learning Dutch)  
+• Currently focusing on learning Python, Django, DRF. Also writing clean code and building real-world projects  
 
----
-[![](https://visitcount.itsvg.in/api?id=Orankrt&icon=0&color=0)](https://visitcount.itsvg.in)
+## Socials:
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:youremail@example.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Tech Stack:
+
+### Languages:  
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)  
+
+### Frameworks:
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev) [![Django REST Framework](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev) [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)  
+
+### DB / ORM
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)  
