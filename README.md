@@ -10,7 +10,7 @@
 • Currently focusing on learning Python, Django, DRF. Also writing clean code and building real-world projects  
 
 ## Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:youremail@example.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:kurtorhanemre@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com)
 
 # Tech Stack:
 
