@@ -15,10 +15,13 @@
 # Tech Stack:
 
 ### Languages:  
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)  
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) [![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
 
 ### Frameworks:
-[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev) [![Django REST Framework](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev) [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)  
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev) [![Django REST Framework](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev) [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) [![RxJS](https://skillicons.dev/icons?i=rxjs)](https://skillicons.dev) [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-### DB / ORM
+### DB / ORM :
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)  
+
+### Tools :
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
